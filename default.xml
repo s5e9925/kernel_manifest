@@ -6,7 +6,7 @@
   <default revision="android-gs-raviole-5.10-android12-qpr3"
     remote="aosp" sync-j="4" />
 
-  <project path="aosp" name="kernel/common" groups="partner" />
+  <project path="aosp" name="kernel/common" groups="partner" revision="refs/tags/android12-5.10-2024-01_r17"/>
   <project path="build" name="kernel/build" groups="partner" />
   <project path="kernel/configs" name="kernel/configs" />
   <project path="common-modules/virtual-device" name="kernel/common-modules/virtual-device" />
